@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include "Parking.h"
 
-const int N = 5;                 //停车场的容量，默认为10
+const int N = 10;                 //停车场的容量，默认为10
 
 int main(int argv, char *argc[]){
     Init(N);
